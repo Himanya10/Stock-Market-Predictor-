@@ -48,18 +48,18 @@ pip install -r requirements.txt
 Open Jupyter Notebook:
 jupyter notebook main.ipynb
 Run all cells to train the model and generate predictions.
-📊 Example Output
+## 📊 Example Output
 Training loss curve
 Actual vs. Predicted stock prices graph
 Future predictions for next day, week, month, and year
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add GRU and Transformer-based models for comparison.
 Integrate live stock market API data (e.g., Yahoo Finance, Alpha Vantage).
 Deploy as a web app with Flask/Django or Streamlit.
-📜 License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 For major changes, please open an issue first to discuss what you’d like to improve.
-👤 Contact
+## 👤 Contact
 Created by Himanya – feel free to connect!
